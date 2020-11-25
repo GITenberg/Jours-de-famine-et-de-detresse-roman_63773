@@ -1,0 +1,29 @@
+_repo: Jours-de-famine-et-de-detresse-roman_63773
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Doff, Neel
+    alias: Doff, Cornelia Hubertina
+    birthdate: 1858
+    deathdate: 1941
+    gutenberg_agent_id: '52588'
+    url: http://www.gutenberg.org/2009/agents/52588
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Neel_Doff
+    - https://fr.wikipedia.org/wiki/Neel_Doff
+    - https://nl.wikipedia.org/wiki/Neel_Doff
+description: ''
+gutenberg_issued: '2020-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63773'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: 'Jours de famine et de détresse: roman'
+url: http://www.gutenberg.org/ebooks/63773
